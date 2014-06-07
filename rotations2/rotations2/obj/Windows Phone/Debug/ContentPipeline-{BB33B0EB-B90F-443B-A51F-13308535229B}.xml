@@ -1,0 +1,911 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>a1.png</Source>
+      <Name>a1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb</Output>
+      <Time>2012-05-21T17:25:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>a2.png</Source>
+      <Name>a2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb</Output>
+      <Time>2012-05-21T17:25:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>a3.png</Source>
+      <Name>a3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb</Output>
+      <Time>2012-05-21T17:25:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>b1.png</Source>
+      <Name>b1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb</Output>
+      <Time>2012-05-21T17:25:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>b2.png</Source>
+      <Name>b2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb</Output>
+      <Time>2012-05-21T17:25:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>b3.png</Source>
+      <Name>b3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb</Output>
+      <Time>2012-05-21T17:25:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>c1.png</Source>
+      <Name>c1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>c2.png</Source>
+      <Name>c2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>c3.png</Source>
+      <Name>c3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>d1.png</Source>
+      <Name>d1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>d2.png</Source>
+      <Name>d2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>d3.png</Source>
+      <Name>d3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>e1.png</Source>
+      <Name>e1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>e2.png</Source>
+      <Name>e2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>e3.png</Source>
+      <Name>e3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>f1.png</Source>
+      <Name>f1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>f2.png</Source>
+      <Name>f2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>f3.png</Source>
+      <Name>f3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fondo.png</Source>
+      <Name>fondo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>g1.png</Source>
+      <Name>g1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>g2.png</Source>
+      <Name>g2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>g3.png</Source>
+      <Name>g3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>h1.png</Source>
+      <Name>h1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>h2.png</Source>
+      <Name>h2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>h3.png</Source>
+      <Name>h3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>i1.png</Source>
+      <Name>i1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>i2.png</Source>
+      <Name>i2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>i3.png</Source>
+      <Name>i3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>j1.png</Source>
+      <Name>j1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>j2.png</Source>
+      <Name>j2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>j3.png</Source>
+      <Name>j3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>k1.png</Source>
+      <Name>k1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>k2.png</Source>
+      <Name>k2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>k3.png</Source>
+      <Name>k3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>l1.png</Source>
+      <Name>l1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>l2.png</Source>
+      <Name>l2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>l3.png</Source>
+      <Name>l3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>m1.png</Source>
+      <Name>m1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>m2.png</Source>
+      <Name>m2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>m3.png</Source>
+      <Name>m3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>n1.png</Source>
+      <Name>n1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>n2.png</Source>
+      <Name>n2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>n3.png</Source>
+      <Name>n3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>o1.png</Source>
+      <Name>o1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>o2.png</Source>
+      <Name>o2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>o3.png</Source>
+      <Name>o3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>p1.png</Source>
+      <Name>p1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>p2.png</Source>
+      <Name>p2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>p3.png</Source>
+      <Name>p3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>q1.png</Source>
+      <Name>q1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>q2.png</Source>
+      <Name>q2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>q3.png</Source>
+      <Name>q3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>r1.png</Source>
+      <Name>r1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>r2.png</Source>
+      <Name>r2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>r3.png</Source>
+      <Name>r3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>s1.png</Source>
+      <Name>s1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>s2.png</Source>
+      <Name>s2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>s3.png</Source>
+      <Name>s3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>t1.png</Source>
+      <Name>t1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>t2.png</Source>
+      <Name>t2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>t3.png</Source>
+      <Name>t3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>u1.png</Source>
+      <Name>u1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>u2.png</Source>
+      <Name>u2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>u3.png</Source>
+      <Name>u3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>v1.png</Source>
+      <Name>v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>v2.png</Source>
+      <Name>v2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>v3.png</Source>
+      <Name>v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>w1.png</Source>
+      <Name>w1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>w2.png</Source>
+      <Name>w2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>w3.png</Source>
+      <Name>w3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>x1.png</Source>
+      <Name>x1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>x2.png</Source>
+      <Name>x2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>x3.png</Source>
+      <Name>x3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>y1.png</Source>
+      <Name>y1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>y2.png</Source>
+      <Name>y2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>y3.png</Source>
+      <Name>y3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>z1.png</Source>
+      <Name>z1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>z2.png</Source>
+      <Name>z2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>z3.png</Source>
+      <Name>z3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb</Output>
+      <Time>2012-05-21T17:25:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>agente.png</Source>
+      <Name>agente</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb</Output>
+      <Time>2012-05-21T17:25:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ñ1.png</Source>
+      <Name>ñ1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ1.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ñ2.png</Source>
+      <Name>ñ2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ2.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ñ3.png</Source>
+      <Name>ñ3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ3.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>continuar.png</Source>
+      <Name>continuar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\continuar.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>jugar.png</Source>
+      <Name>jugar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\jugar.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>salir.png</Source>
+      <Name>salir</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\salir.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>aletterated.png</Source>
+      <Name>aletterated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\aletterated.xnb</Output>
+      <Time>2012-05-21T17:25:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>barra-roja.png</Source>
+      <Name>barra-roja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-roja.xnb</Output>
+      <Time>2012-05-21T17:25:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>barra-verde-2º.png</Source>
+      <Name>barra-verde-2º</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-verde-2º.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>contorno-morado.png</Source>
+      <Name>contorno-morado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\contorno-morado.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>blop.wav</Source>
+      <Name>blop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\blop.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>boing.wav</Source>
+      <Name>boing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\boing.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maintheme.mp3</Source>
+      <Name>maintheme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.xnb</Output>
+      <Extra>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.wma</Extra>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\Font.xnb</Output>
+      <Time>2012-05-21T17:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>listapalabras.xml</Source>
+      <Name>listapalabras</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\listapalabras.xnb</Output>
+      <Time>2014-06-07T19:43:08.1167759+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{BB33B0EB-B90F-443B-A51F-13308535229B}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2Content\</RootDirectory>
+      <LoggerRootDirectory>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\bin\Windows Phone\Debug\XMLWords.dll</Key>
+        <Value>2014-06-07T19:34:13.8462174+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.dll</Key>
+        <Value>2013-09-01T19:48:33.3722969+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-05T21:41:50.3809624+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

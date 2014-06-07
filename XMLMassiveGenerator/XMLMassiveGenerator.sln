@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLMassiveGenerator", "XMLMassiveGenerator\XMLMassiveGenerator\XMLMassiveGenerator.csproj", "{15748ED2-49B5-428C-BDBB-F02DAEFB4658}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XMLMassiveGeneratorContent", "XMLMassiveGenerator\XMLMassiveGeneratorContent\XMLMassiveGeneratorContent.contentproj", "{7DD33FA4-DB8A-47B2-A60F-3033E0A8F71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15748ED2-49B5-428C-BDBB-F02DAEFB4658}.Debug|x86.ActiveCfg = Debug|x86
+		{15748ED2-49B5-428C-BDBB-F02DAEFB4658}.Debug|x86.Build.0 = Debug|x86
+		{15748ED2-49B5-428C-BDBB-F02DAEFB4658}.Release|x86.ActiveCfg = Release|x86
+		{15748ED2-49B5-428C-BDBB-F02DAEFB4658}.Release|x86.Build.0 = Release|x86
+		{7DD33FA4-DB8A-47B2-A60F-3033E0A8F71B}.Debug|x86.ActiveCfg = Debug|x86
+		{7DD33FA4-DB8A-47B2-A60F-3033E0A8F71B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+F:\ApalabradosXNA\rotations2\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\ApalabradosXNA\rotations2\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\ApalabradosUltimaVersion\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+F:\ApalabradosUltimaVersion\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\ApalabradosUltimaVersion2\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+H:\ApalabradosUltimaVersion2\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2Content\obj\Windows Phone\Debug\rotations2Content.contentprojResolveAssemblyReference.cache

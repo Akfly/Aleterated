@@ -1,0 +1,2 @@
+C:\Users\alumno\Desktop\XML2\XMLMassiveGenerator\XMLMassiveGenerator\XMLMassiveGeneratorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\XMLMassiveGenerator\XMLMassiveGenerator\XMLMassiveGeneratorContent\obj\x86\Debug\ResolveAssemblyReference.cache

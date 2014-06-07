@@ -1,0 +1,5 @@
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\bin\Windows Phone\Debug\XMLWords.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\bin\Windows Phone\Debug\XMLWords.pdb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\obj\Windows Phone\Debug\XMLWords.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\obj\Windows Phone\Debug\XMLWords.pdb

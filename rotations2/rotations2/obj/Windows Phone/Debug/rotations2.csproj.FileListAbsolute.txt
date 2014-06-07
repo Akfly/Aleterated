@@ -1,0 +1,1484 @@
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+C:\Users\Alumno\Desktop\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ1.xnb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+F:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+J:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+J:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â1.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb
+E:\ApalabradosXNA\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\blop.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\boing.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\Font.xnb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.wma
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\alumno\Desktop\aa\rotations2\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\blop.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\boing.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\Font.xnb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.wma
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+E:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+E:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+E:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\blop.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\boing.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\Font.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.wma
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\n¦â3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\blop.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\boing.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\Font.xnb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.wma
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+F:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+F:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+F:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+F:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+F:\ApalabradosUltimaVersion\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+F:\ApalabradosUltimaVersion\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\blop.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\boing.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\Font.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\listapalabras.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.wma
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.pdb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ1.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ2.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ1.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ2.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ3.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\blop.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\boing.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\Font.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\listapalabras.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.wma
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.pdb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\continuar.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\jugar.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\salir.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\aletterated.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-roja.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-verde-2º.xnb
+E:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\contorno-morado.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ1.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ2.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ3.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\continuar.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\jugar.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\salir.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\aletterated.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-roja.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-verde-2º.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\contorno-morado.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\blop.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\boing.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\Font.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\listapalabras.xnb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.wma
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.pdb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+H:\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ1.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ2.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ3.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\continuar.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\jugar.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\salir.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\aletterated.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-roja.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-verde-2º.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\contorno-morado.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\blop.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\boing.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\Font.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\listapalabras.xnb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.wma
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.pdb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\continuar.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\jugar.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\salir.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\aletterated.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-roja.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-verde-2º.xnb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\rotations2\rotations2\bin\Windows Phone\Debug\Content\contorno-morado.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ1.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ2.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ3.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\continuar.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\jugar.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\salir.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\aletterated.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-roja.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-verde-2º.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\contorno-morado.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\blop.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\boing.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\Font.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\listapalabras.xnb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.wma
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.pdb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\a1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\a2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\a3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\b1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\b2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\b3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\c1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\c2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\c3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\d1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\d2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\d3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\e1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\e2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\e3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\f1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\f2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\f3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\fondo.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\g1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\g2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\g3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\h1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\h2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\h3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\i1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\i2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\i3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\j1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\j2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\j3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\k1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\k2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\k3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\l1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\l2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\l3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\m1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\m2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\m3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\n1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\n2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\n3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\o1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\o2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\o3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\p1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\p2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\p3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\q1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\q2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\q3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\r1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\r2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\r3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\s1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\s2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\s3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\t1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\t2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\t3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\u1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\u2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\u3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\v1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\v2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\v3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\w1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\w2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\w3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\x1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\x2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\x3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\y1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\y2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\y3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\z1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\z2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\z3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\agente.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ1.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ2.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\ñ3.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\continuar.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\jugar.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\salir.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\aletterated.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-roja.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\barra-verde-2º.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\contorno-morado.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\blop.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\boing.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\Font.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\listapalabras.xnb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Content\maintheme.wma
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.pdb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\XMLPalabras.pdb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.csprojResolveAssemblyReference.cache
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\rotations2.pdb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\AppManifest.xaml
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\WMAppManifest.xml
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\bin\Windows Phone\Debug\rotations2.xap
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\rotations2\rotations2\obj\Windows Phone\Debug\XapCacheFile.xml

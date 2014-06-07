@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="XMLMassiveGenerator.Estrella[]">
+    <Item>
+      <nombre>Vega</nombre>
+      <coordenadas>25 70</coordenadas>
+      <brillo>1.2</brillo>
+      <color>FFB22222</color>
+    </Item>
+    <Item>
+      <nombre>Rigel</nombre>
+      <coordenadas>300 250</coordenadas>
+      <brillo>0.8</brillo>
+      <color>FFFFD700</color>
+    </Item>
+    <Item>
+      <nombre>Betelgeuse</nombre>
+      <coordenadas>100 25</coordenadas>
+      <brillo>1</brillo>
+      <color>FFFF0000</color>
+    </Item>
+    <Item>
+      <nombre>Aldebarán</nombre>
+      <coordenadas>450 150</coordenadas>
+      <brillo>0.45</brillo>
+      <color>FFFF4500</color>
+    </Item>
+    <Item>
+      <nombre>Antares</nombre>
+      <coordenadas>200 50</coordenadas>
+      <brillo>0.7</brillo>
+      <color>FF1E90FF</color>
+    </Item>
+  </Asset>
+</XnaContent>

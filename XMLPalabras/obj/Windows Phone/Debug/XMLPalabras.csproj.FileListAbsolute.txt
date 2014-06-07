@@ -1,0 +1,41 @@
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.pdb
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.dll
+C:\Users\alumno\Desktop\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.pdb
+E:\ApalabradosUltimaVersion2\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.dll
+E:\ApalabradosUltimaVersion2\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.pdb
+E:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.dll
+E:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.pdb
+F:\ApalabradosUltimaVersion2\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.dll
+F:\ApalabradosUltimaVersion2\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.pdb
+F:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+F:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.dll
+F:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.pdb
+H:\ApalabradosUltimaVersion2\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.dll
+H:\ApalabradosUltimaVersion2\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.pdb
+H:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+H:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.dll
+H:\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.pdb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.pdb
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.dll
+C:\Users\Alumno\Desktop\Aleterated\ApalabradosUltimaVersion2\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.pdb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.pdb
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.dll
+E:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.pdb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\bin\Windows Phone\Debug\XMLPalabras.pdb
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.dll
+F:\Universidad\2\Programación Visual (Windows Phone)\Prácticas\Aleterated\XMLPalabras\obj\Windows Phone\Debug\XMLPalabras.pdb

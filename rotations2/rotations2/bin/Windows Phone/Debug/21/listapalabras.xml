@@ -1,0 +1,805 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="XMLMassiveGenerator.Palabra[]">
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>casa</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>gato</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>esne</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>tubo</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>nube</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>niño</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>rata</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>tela</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>saco</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>pato</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>sopa</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>vaso</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>beso</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>cubo</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>pelo</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>kilo</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>lazo</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>lata</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>bola</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>90</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>lupa</palabra>
+      <nivel>1</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>chino</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>raton</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>tarta</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>perla</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>arbol</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>pinza</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>recta</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>curva</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>circo</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>juego</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>barco</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>araña</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>silla</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>coser</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>perro</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>sabor</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>burro</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>tigre</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>lanza</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>72</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>balon</palabra>
+      <nivel>2</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>puerta</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>tesoro</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>alubia</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>abuela</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>niebla</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>turron</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>carton</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>bombon</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>tocino</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>cocina</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>tambor</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>tomate</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>tetera</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>cereza</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>coraza</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>dorado</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>roncar</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>gruñir</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>navaja</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>60</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>rocoso</palabra>
+      <nivel>3</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>caracol</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>forjado</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>tostada</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>conjuro</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>castaña</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>ponzoña</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>termino</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>fruncir</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>marisco</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>gestora</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>cascada</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>respiro</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>abanico</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>alegria</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>encanto</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>setenta</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>sistema</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>soldado</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>manzano</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>51</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>taberna</palabra>
+      <nivel>4</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>pantalon</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>panadero</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>justicia</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>ladrador</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>coliflor</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>castillo</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>medicina</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>telefono</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>codorniz</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>pastilla</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>pegajoso</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>pregunta</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>absorber</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>aceituna</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>vendaval</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>adorable</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>adverbio</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>pinguino</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>elefante</palabra>
+      <nivel>5</nivel>
+    </Item>
+    <Item>
+      <listaBloques />
+      <stepAngle>45</stepAngle>
+      <radius>120</radius>
+      <rotationSpeed>36</rotationSpeed>
+      <palabra>lavadora</palabra>
+      <nivel>5</nivel>
+    </Item>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aleterated", "rotations2\rotations2\Aleterated.csproj", "{741F6EF0-C847-4C7C-98AF-17D17F7A6487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rotations2Content", "rotations2\rotations2Content\rotations2Content.contentproj", "{BB33B0EB-B90F-443B-A51F-13308535229B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLWords", "XMLPalabras\XMLWords.csproj", "{0ED2B110-DF4C-47A9-853E-CB401FF63660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741F6EF0-C847-4C7C-98AF-17D17F7A6487}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{741F6EF0-C847-4C7C-98AF-17D17F7A6487}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{741F6EF0-C847-4C7C-98AF-17D17F7A6487}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{741F6EF0-C847-4C7C-98AF-17D17F7A6487}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{741F6EF0-C847-4C7C-98AF-17D17F7A6487}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{741F6EF0-C847-4C7C-98AF-17D17F7A6487}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{BB33B0EB-B90F-443B-A51F-13308535229B}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{BB33B0EB-B90F-443B-A51F-13308535229B}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{0ED2B110-DF4C-47A9-853E-CB401FF63660}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{0ED2B110-DF4C-47A9-853E-CB401FF63660}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{0ED2B110-DF4C-47A9-853E-CB401FF63660}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{0ED2B110-DF4C-47A9-853E-CB401FF63660}.Release|Windows Phone.Build.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

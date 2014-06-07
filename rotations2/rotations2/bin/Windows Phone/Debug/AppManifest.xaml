@@ -1,0 +1,10 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Aleterated" EntryPointType="Aleterated.Game1" RuntimeVersion="3.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Aleterated" Source="Aleterated.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile" Source="Microsoft.Advertising.Mobile.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile.UI" Source="Microsoft.Advertising.Mobile.UI.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile.Xna" Source="Microsoft.Advertising.Mobile.Xna.dll" />
+    <AssemblyPart x:Name="XMLPalabras" Source="XMLPalabras.dll" />
+    <AssemblyPart x:Name="XMLWords" Source="XMLWords.dll" />
+  </Deployment.Parts>
+</Deployment>
